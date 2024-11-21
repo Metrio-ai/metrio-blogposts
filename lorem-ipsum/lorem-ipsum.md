@@ -1,7 +1,6 @@
 # Lorem Ipsum
-<div class="image-container">
-  ![Portada](https://github.com/Metrio-ai/metrio-blogposts/blob/main/lorem-ipsum/img/businessoptimization-service.jpg?raw=true)
-</div>
+
+![Portada](https://github.com/Metrio-ai/metrio-blogposts/blob/main/lorem-ipsum/img/businessoptimization-service.jpg?raw=true)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.
 
@@ -39,6 +38,4 @@ Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torqu
  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
  - Sed nisi nulla quis sem at nibh elementum imperdiet.
 
-<div class="image-container">
-  ![ImagenFinal](https://raw.githubusercontent.com/Metrio-ai/metrio-blogposts/refs/heads/main/lorem-ipsum/img/digitaltransform-service.webp)
-<div>
+![ImagenFinal](https://raw.githubusercontent.com/Metrio-ai/metrio-blogposts/refs/heads/main/lorem-ipsum/img/digitaltransform-service.webp)
