@@ -1,6 +1,6 @@
 # Lorem Ipsum
 
-![Portada](https://github.com/Metrio-ai/metrio-blogposts/blob/main/lorem-ipsum/img/Sierra.jpg)
+![Portada](https://raw.githubusercontent.com/Metrio-ai/metrio-blogposts/refs/heads/main/lorem-ipsum/img/Sierra.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.
 
