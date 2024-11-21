@@ -10,8 +10,6 @@ Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor
 
 ## Propiedades
 
-![Imagen2](https://raw.githubusercontent.com/Metrio-ai/metrio-blogposts/refs/heads/main/lorem-ipsum/img/consulting-service.webp)
-
   1. Fusce ac turpis quis ligula lacinia aliquet.  
   2. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.  
   3. Quisque volutpat condimentum velit.  
