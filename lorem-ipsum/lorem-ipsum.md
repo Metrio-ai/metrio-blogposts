@@ -10,15 +10,15 @@ Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor
 
 ## Propiedades
 
-  1. Fusce ac turpis quis ligula lacinia aliquet.  
-  2. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.  
-  3. Quisque volutpat condimentum velit.  
+Fusce ac turpis quis ligula lacinia aliquet.  
+Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.  
+Quisque volutpat condimentum velit.  
 
 ### Beneficios
 
-  - Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.  
-  - Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi.  
-  - Ut fringilla. Suspendisse potenti.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.  
+Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi.  
+Ut fringilla. Suspendisse potenti.
 
 ## Ejemplos en uso
 
@@ -26,16 +26,12 @@ Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Eti
 
 ### Código de ejemplo
 
-```javascript
-function loremIpsum() {
-  console.log("Lorem ipsum dolor sit amet.");
-}
-```
+(Por ahora no funciona el código directamente)
 
 ## Conclusión
 
 Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
- - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- - Sed nisi nulla quis sem at nibh elementum imperdiet.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed nisi nulla quis sem at nibh elementum imperdiet.
 
 ![ImagenFinal](https://raw.githubusercontent.com/Metrio-ai/metrio-blogposts/refs/heads/main/lorem-ipsum/img/digitaltransform-service.webp)
